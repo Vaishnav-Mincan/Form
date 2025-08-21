@@ -1,0 +1,29 @@
+body
+{
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    background-attachment: fixed;
+} 
+div{
+    width: 800px;
+    height: 500px;
+    padding: 10px 100px;
+    border-radius: 50px;
+    margin: 100px 350px;
+    background-color: rgb(180, 216, 190) ;
+}
+.p1{
+    text-align: center  ;
+}
+h1{
+    text-align: center;
+}
+label{
+    float: right;
+}
+button{
+    background-color: aqua;
+    font-weight: bold;
+}
